@@ -4,7 +4,7 @@ body {
     margin: 0;
 }
 
-header {
+header h1 {
     background-color: silver;
     font-size: 1.5em;
     text-align: center;
